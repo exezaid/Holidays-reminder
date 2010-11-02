@@ -1,0 +1,4 @@
+Siguiendo el link se activara su cuenta:
+
+    http://{{ site }}{% url registration_activate activation_key %}
+

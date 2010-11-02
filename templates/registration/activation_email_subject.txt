@@ -1,0 +1,1 @@
+Realice la activacion en {{ site }}.
